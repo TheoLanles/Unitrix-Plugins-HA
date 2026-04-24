@@ -1,5 +1,5 @@
 {
-    "name": "ESP32 Modes Controller",
+    "name": "Unitrix Plugins",
     "content_in_root": false,
     "render_readme": true,
     "homeassistant": "2026.2.2"
